@@ -214,7 +214,7 @@ futures = "0.3"
 futures-channel = "0.3"
 futures-util = "0.3"
 getrandom02 = { package = "getrandom", version = "0.2" }
-git2 = "0.19"
+git2 = "0.20"
 glob = "0.3.1"
 hashbrown = { version = "0.16.1", default-features = false, features = ["equivalent", "inline-more", "rayon", "serde"] }
 headers = "0.4"
@@ -366,7 +366,7 @@ zstd-framed = { version = "0.1.1", features = ["tokio"] }
 openssl = { version = "0.10", features = ["vendored"] }
 
 [workspace.dependencies.wasmtime]
-version = "39"
+version = "41"
 default-features = false
 features = [
   "addr2line",
