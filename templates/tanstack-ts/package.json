@@ -29,7 +29,7 @@
     "@types/react": "^19.0.0",
     "@types/react-dom": "^19.0.0",
     "typescript": "^5.7.2",
-    "vite": "^7.1.5",
+    "vite": "^6.4.3",
     "vite-tsconfig-paths": "^5.1.4"
   }
 }
